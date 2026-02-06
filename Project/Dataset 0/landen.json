@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "naam": "België",
+    "continent": "Europa",
+    "bevolking": 11500000,
+    "isEU": true,
+    "opgericht": "1830-07-21",
+    "vlagUrl": "https://example.com/images/belgie.png"
+  },
+  {
+    "id": 2,
+    "naam": "Duitsland",
+    "continent": "Europa",
+    "bevolking": 83100000,
+    "isEU": true,
+    "opgericht": "1871-01-18",
+    "vlagUrl": "https://example.com/images/duitsland.png"
+  },
+  {
+    "id": 3,
+    "naam": "Japan",
+    "continent": "Azië",
+    "bevolking": 125800000,
+    "isEU": false,
+    "opgericht": "660-02-11",
+    "vlagUrl": "https://example.com/images/japan.png"
+  }
+]
