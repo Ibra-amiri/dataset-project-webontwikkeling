@@ -6,7 +6,7 @@
     "prijs": 25000,
     "beschikbaar": true,
     "productiedatum": "2021-03-15",
-    "imageUrl": "https://github.com/Ibra-amiri/dataset-project-webontwikkeling.git/refs/Head/Main/Project/Images/VW_Golf.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/VW_Golf.jpg",
     "brandstof": "benzine",
     "kenmerken": ["airco", "cruise control", "bluetooth"],
     "land": {
@@ -26,7 +26,7 @@
     "prijs": 42000,
     "beschikbaar": true,
     "productiedatum": "2022-01-10",
-    "imageUrl": "https://example.com/images/bmw3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/BMW_serie_3.jpg",
     "brandstof": "diesel",
     "kenmerken": ["leder", "navigatie", "park assist"],
     "land": {
@@ -46,7 +46,7 @@
     "prijs": 39000,
     "beschikbaar": false,
     "productiedatum": "2020-11-05",
-    "imageUrl": "https://example.com/images/a4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/Audi_A4.jpg",
     "brandstof": "benzine",
     "kenmerken": ["virtual cockpit", "lane assist"],
     "land": {
@@ -66,7 +66,7 @@
     "prijs": 23000,
     "beschikbaar": true,
     "productiedatum": "2021-06-20",
-    "imageUrl": "https://example.com/images/corolla.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/Toyota_Corolla.jpg",
     "brandstof": "hybride",
     "kenmerken": ["eco mode", "adaptive cruise"],
     "land": {
@@ -86,7 +86,7 @@
     "prijs": 34000,
     "beschikbaar": true,
     "productiedatum": "2022-09-12",
-    "imageUrl": "https://example.com/images/cx5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/Mazda_CX-5.jpg",
     "brandstof": "benzine",
     "kenmerken": ["head-up display", "keyless entry"],
     "land": {
@@ -106,7 +106,7 @@
     "prijs": 27000,
     "beschikbaar": false,
     "productiedatum": "2019-04-18",
-    "imageUrl": "https://example.com/images/civic.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/Honda_Civic.jpg",
     "brandstof": "benzine",
     "kenmerken": ["sport mode", "touchscreen"],
     "land": {
@@ -126,7 +126,7 @@
     "prijs": 26000,
     "beschikbaar": true,
     "productiedatum": "2021-08-01",
-    "imageUrl": "https://example.com/images/308.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/Peugeot_308.jpg",
     "brandstof": "diesel",
     "kenmerken": ["i-cockpit", "lane assist"],
     "land": {
@@ -146,7 +146,7 @@
     "prijs": 19000,
     "beschikbaar": true,
     "productiedatum": "2020-02-14",
-    "imageUrl": "https://example.com/images/c3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/Citroën_C3.jpg",
     "brandstof": "benzine",
     "kenmerken": ["parkeersensoren", "airco"],
     "land": {
@@ -166,7 +166,7 @@
     "prijs": 28000,
     "beschikbaar": false,
     "productiedatum": "2018-10-30",
-    "imageUrl": "https://example.com/images/astra.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/Opel_Astra.jpg",
     "brandstof": "diesel",
     "kenmerken": ["LED verlichting", "cruise control"],
     "land": {
@@ -186,7 +186,7 @@
     "prijs": 36000,
     "beschikbaar": true,
     "productiedatum": "2022-05-22",
-    "imageUrl": "https://example.com/images/aklasse.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/Mercedes-Benz_A-klasse.jpg",
     "brandstof": "elektrisch",
     "kenmerken": ["MBUX", "spraakbediening"],
     "land": {
