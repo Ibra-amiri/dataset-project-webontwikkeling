@@ -16,7 +16,7 @@
       "bevolking": 83100000,
       "isEU": true,
       "opgericht": "1871-01-18",
-      "vlagUrl": "https://example.com/images/duitsland.png"
+      "vlagUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/duitsland.jpg"
     }
   },
   {
@@ -36,7 +36,7 @@
       "bevolking": 83100000,
       "isEU": true,
       "opgericht": "1871-01-18",
-      "vlagUrl": "https://example.com/images/duitsland.png"
+      "vlagUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/duitsland.jpg"
     }
   },
   {
@@ -56,7 +56,7 @@
       "bevolking": 83100000,
       "isEU": true,
       "opgericht": "1871-01-18",
-      "vlagUrl": "https://example.com/images/duitsland.png"
+      "vlagUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/duitsland.jpg"
     }
   },
   {
@@ -76,7 +76,7 @@
       "bevolking": 125800000,
       "isEU": false,
       "opgericht": "660-02-11",
-      "vlagUrl": "https://example.com/images/japan.png"
+      "vlagUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/japan.jpg"
     }
   },
   {
@@ -96,7 +96,7 @@
       "bevolking": 125800000,
       "isEU": false,
       "opgericht": "660-02-11",
-      "vlagUrl": "https://example.com/images/japan.png"
+      "vlagUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/japan.jpg"
     }
   },
   {
@@ -116,7 +116,7 @@
       "bevolking": 125800000,
       "isEU": false,
       "opgericht": "660-02-11",
-      "vlagUrl": "https://example.com/images/japan.png"
+      "vlagUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/japan.jpg"
     }
   },
   {
@@ -136,7 +136,7 @@
       "bevolking": 11500000,
       "isEU": true,
       "opgericht": "1830-07-21",
-      "vlagUrl": "https://example.com/images/belgie.png"
+      "vlagUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/belgie.png"
     }
   },
   {
@@ -156,7 +156,7 @@
       "bevolking": 11500000,
       "isEU": true,
       "opgericht": "1830-07-21",
-      "vlagUrl": "https://example.com/images/belgie.png"
+      "vlagUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/belgie.png"
     }
   },
   {
@@ -176,7 +176,7 @@
       "bevolking": 11500000,
       "isEU": true,
       "opgericht": "1830-07-21",
-      "vlagUrl": "https://example.com/images/belgie.png"
+      "vlagUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/belgie.png"
     }
   },
   {
@@ -196,7 +196,7 @@
       "bevolking": 83100000,
       "isEU": true,
       "opgericht": "1871-01-18",
-      "vlagUrl": "https://example.com/images/duitsland.png"
+      "vlagUrl": "https://raw.githubusercontent.com/Ibra-amiri/dataset-project-webontwikkeling/refs/heads/main/Project/Dataset%200/Images/duitsland.jpg"
     }
   }
 ]
